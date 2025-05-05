@@ -1,19 +1,38 @@
 ### Hi, I'm Kiruthika Ramalingam! 👋  
-Data Science & AI Enthusiast | AI Developer | Turning Ideas into Impactful Projects  
+Data Science & AI Enthusiast | AI Developer | Turning Ideas into Impactful Projects
 
-I'm a passionate learner focused on building intelligent, helpful applications using AI and machine learning. From healthcare to education, I love solving real-world problems with code and creativity.  
+I'm a passionate learner focused on building intelligent, helpful applications using AI and machine learning. From healthcare to education, I love solving real-world problems with code and creativity.
 
 Currently enrolled in the **AI Residency Program by Decoding Data Science**, where I’m deepening my skills in LLMs, agent systems, and advanced AI workflows.
 
 ---
 
-### 🛠️ Skills & Tools
+### 🧰 Tech Stack Overview
 
-**Programming:** Python, SQL, HTML, CSS  
-**AI/ML:** Linear Regression, Logistic Regression, Decision Trees, LangChain Agents, Gemini API  
-**Frontend & Deployment:** Streamlit, Flask, Hugging Face, Docker, Render  
-**Data Analysis:** Pandas, NumPy, Power BI  
-**Voice & OCR Tech:** SpeechRecognition, OCR.Space API, Tesseract  
+#### 🧠 AI & Machine Learning
+- LLM APIs: Gemini (Google Generative AI)  
+- ML Algorithms: Linear Regression, Logistic Regression, Decision Trees  
+- Agent Frameworks: LangChain Agents  
+
+#### 🧾 Data & Analysis
+- Tools: Pandas, NumPy, Power BI  
+- Formats: CSV, Excel  
+- Visualization: Streamlit components, Power BI dashboards  
+
+#### 🌐 Frontend & Backend
+- UI: Streamlit  
+- Backend: Flask  
+- Voice & Language: SpeechRecognition (English/Arabic), TTS (pyttsx3)  
+- OCR & Scans: OCR.Space API, Tesseract  
+
+#### 🚀 Deployment
+- Platforms: Hugging Face Spaces, Render  
+- Containerization: Docker  
+- Version Control: GitHub  
+
+#### 🛢️ Database
+- SQL (PostgreSQL via Neon)  
+- Local testing previously used MySQL
 
 ---
 
@@ -46,12 +65,12 @@ I'm always open to collaborating on exciting projects involving:
 - 🤖 Generative AI  
 - 🐍 Python  
 - 🧠 LLMs & Agent-based systems  
+
 If you’re building something meaningful, let’s connect!
 
 ---
 
 ### 🏆 Achievements
-
 - 🥇 Top 6 Finalist – FutureTech Challenge (Dubai AI Festival)  
 - 🌟 Top 11 Finalist – AI Application Challenge  
 
@@ -59,8 +78,7 @@ If you’re building something meaningful, let’s connect!
 
 ### 📬 Contact Me
 
-**LinkedIn:** www.linkedin.com/in/kiruthika-ramalingam
-  
+**LinkedIn:** [Kiruthika Ramalingam](https://www.linkedin.com/in/kiruthika-ramalingam)  
 **Email:** kiruthikaramaingam@gmail.com  
 
 ---
